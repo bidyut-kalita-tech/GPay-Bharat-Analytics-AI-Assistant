@@ -5,8 +5,7 @@ An end-to-end FinTech analytics and conversational business intelligence project
 ---
 
 ## 📊 Dashboard Preview
-![Screenshot](Screenshot%20(33).png)
-![Screenshot](Screenshot%20(35).png)
+
 
 ![Google Pay Bharat Analytics Dashboard](Deshboard%20Screenshot%20%28288%29.png)
 
